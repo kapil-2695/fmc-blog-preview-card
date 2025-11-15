@@ -21,8 +21,11 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 ### Screenshot
 
 <img src="./screenshots/desktop-screenshot.png" alt="Desktop screenshot" width="600" />
-<img src="./screenshots/mobile-screenshot.png" alt="Mobile screenshot" width="300" />
-<img src="./screenshots/active-state-screenshot.png" alt="Active state screenshot" width="300" />
+<div style="display:flex; gap: 1rem;">
+  <img src="./screenshots/mobile-screenshot.png" alt="Mobile screenshot" width="250" />
+  <img src="./screenshots/active-state-screenshot.png" alt="Active state screenshot" width="250" />
+</div>
+ 
 
 
 ### Links
@@ -65,4 +68,4 @@ I learned the importance maintaining the order of elements in HTML for accessibi
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/kapil-2695)
+- Frontend Mentor - [@kapil-2695](https://www.frontendmentor.io/profile/kapil-2695)
